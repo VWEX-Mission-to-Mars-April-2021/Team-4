@@ -9,11 +9,13 @@ https://www.tinkercad.com
 
 ## Scrum Git
 
-## Retrospective day 1
+## Retrospective Day 1
 
-## Retrospective day 2
+## Retrospective Day 2
 
 ## Retrospective Final Day
+
+---------------------------------------------------------
 
 This is the readme. Formatting of text is as follows.
 
