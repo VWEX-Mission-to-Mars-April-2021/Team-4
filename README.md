@@ -7,6 +7,8 @@ https://www.tinkercad.com
 
 ## Team Values
 
+## Scrum Git
+
 ## Retrospective day 1
 
 ## Retrospective day 2
